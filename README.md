@@ -1,5 +1,5 @@
-# c-plus-plus
-This is a collection of notes on COMP 1100 - Introduction to C++ Programming 
+# COMP 1100 - Introduction to C++ Programming 
+This repository is a collection of study materials dedicated to COMP 1100 - Introduction to C++ Programming 
 
 ## In this repository
 In this repository you will find the following:
