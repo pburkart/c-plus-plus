@@ -11,3 +11,5 @@ In this repository you will find the following:
   
   4. A "Next Steps" document which gives the reader advice on where to go from here. 
 
+## Contributing 
+If you have anything that you'd like to add or fix in this repository, feel free to submit a pull request! [Here's](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) a quick and easy guide for learning how to submit a pull request on GitHub.
